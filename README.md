@@ -13,3 +13,11 @@ Do that in the Issues or PRs
 ## Is this another blockchain experiment?
 
 No, this is NOT a blockchain experiment,
+
+## Where will my citizens go?
+
+Any URL you add to the README
+
+## How to start?
+
+Fork the repository, and thats all!
